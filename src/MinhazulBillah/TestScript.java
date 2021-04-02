@@ -32,7 +32,7 @@ public class TestScript {
 		//Step03
 		driver.findElement(By.id("email_create")).sendKeys("mnhazulbillah@gmail.com");
 		driver.findElement(By.id("SubmitCreate")).click();
-		Thread.sleep(1000);
+		Thread.sleep(3000);
 		//driver.close();
 		
 		//Step04
