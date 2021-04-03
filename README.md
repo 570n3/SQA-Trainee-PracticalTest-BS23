@@ -2,7 +2,7 @@
 
 <h4>MD. Minhazul Billah</h4>
 
-TestScript directory: SQA_Tainee_PracticalTest/src/MinhazulBillah/
+TestScript directory: SQA_Trainee_PracticalTest/src/MinhazulBillah/
 
 I could have used other css selectors but 'id' suited best.
 
