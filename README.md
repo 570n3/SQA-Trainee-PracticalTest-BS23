@@ -4,8 +4,6 @@
 
 TestScript directory: SQA_Trainee_PracticalTest/src/MinhazulBillah/
 
-I could have used other css selectors but 'id' suited best.
-
 Steps are separated in TestScript
 
 Step01: Visit the given URL: http://automationpractice.com/index.php
